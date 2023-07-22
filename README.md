@@ -22,8 +22,6 @@ e.run(5)
 
 ## Citing
 
-If you use the proposed simulation in your work, please cite the accompanying [paper]:
-
 ```bibtex
 @Article{math11143219,
 AUTHOR = {El-Ashmawi, Walaa H. and Salah, Ahmad and Bekhit, Mahmoud and Xiao, Guoqing and Al Ruqeishi, Khalil and Fathalla, Ahmed},
